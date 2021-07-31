@@ -7,4 +7,4 @@ Ofcourse there are numerous benefits to an application such as a Text to Speech 
 - Helps Kids to Read 
 - Reads Multiple Languages
 
-- Reads Ebooks convincely.
+- Reads Ebooks convincely
